@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex", "Yandex\Yandex.csproj", "{7D068563-1981-499C-A490-67FC8A79992C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson.Two", "Lesson.Two\Lesson.Two.csproj", "{E82DC872-BF15-44FC-BB7E-DE2135A1ED28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson.Three", "Lesson.Three\Lesson.Three.csproj", "{8339C98C-2203-4143-B9CC-389C6ED4BBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D068563-1981-499C-A490-67FC8A79992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D068563-1981-499C-A490-67FC8A79992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D068563-1981-499C-A490-67FC8A79992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D068563-1981-499C-A490-67FC8A79992C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82DC872-BF15-44FC-BB7E-DE2135A1ED28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82DC872-BF15-44FC-BB7E-DE2135A1ED28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82DC872-BF15-44FC-BB7E-DE2135A1ED28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82DC872-BF15-44FC-BB7E-DE2135A1ED28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8339C98C-2203-4143-B9CC-389C6ED4BBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8339C98C-2203-4143-B9CC-389C6ED4BBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8339C98C-2203-4143-B9CC-389C6ED4BBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8339C98C-2203-4143-B9CC-389C6ED4BBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
